@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.InstallLog
+   assemblypath = D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.exe
+Installing service Octopus Service...
+Service Octopus Service has been successfully installed.
+Creating EventLog source Octopus Service in log Application...
+Committing assembly 'D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.InstallLog
+   assemblypath = D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.exe

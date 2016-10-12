@@ -1,0 +1,11 @@
+D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.exe.config
+D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.exe
+D:\AutoDeployment\auto-deployment-test\src\SampleService\bin\Debug\SampleService.pdb
+D:\AutoDeployment\auto-deployment-test\build\SampleService\SampleService.exe.config
+D:\AutoDeployment\auto-deployment-test\build\SampleService\SampleService.exe
+D:\AutoDeployment\auto-deployment-test\build\SampleService\SampleService.pdb
+D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.ProjectInstaller.resources
+D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.csproj.GenerateResource.Cache
+D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.exe
+D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.pdb
+D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
