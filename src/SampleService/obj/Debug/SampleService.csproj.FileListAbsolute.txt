@@ -8,4 +8,3 @@ D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService
 D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.csproj.GenerateResource.Cache
 D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.exe
 D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.pdb
-D:\AutoDeployment\auto-deployment-test\src\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
