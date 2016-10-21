@@ -18,7 +18,7 @@ namespace SampleService
       this.timer.Interval = 30000;
       this.timer.Elapsed += new System.Timers.ElapsedEventHandler(this.timer_Tick);
       timer.Enabled = true;
-      Library.WriteLog("Windows Service Started");
+      Library.WriteLog("Windows Service Started in pune");
     }
 
     private void timer_Tick(object sender, ElapsedEventArgs e)

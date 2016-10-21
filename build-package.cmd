@@ -17,9 +17,9 @@ if exist %ARTIFACT% (
 
 echo -------------------------------------------------------------------------
 echo packaging service... .. .
-set service_build=%BUILD%SampleService\*.*
+set build_path=%BUILD%SampleService\*.*
 set service_artifact=%ARTIFACT%sample-service-%VERSION_INFO%.7z
 
-%SEVEN_ZIP% %service_artifact% %service_build%
+%SEVEN_ZIP% %service_artifact% %build_path%
 echo -------------------------------------------------------------------------
 
