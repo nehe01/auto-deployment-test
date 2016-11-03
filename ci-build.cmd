@@ -4,6 +4,8 @@ REM ci-build SOLUTION BUILD_NUMBER
 
 set SOLUTION=%1%
 set BUILD_NUMBER=%2%
+set OCTOPACK_PUBLISH_PACKAGE=%3%
+set OCTOPUS_API_KEY=%4%
 set REVISION=%time:~0,2%%time:~3,2%
 set REVISION=%REVISION: =0%
 
@@ -45,7 +47,7 @@ if %errorlevel% neq 0 goto build_fail
 echo ------------------------------------------------------------------------
 echo
 
-call .\build.cmd %SOLUTION%
+call .\build.cmd %SOLUTION% %VERSION_INFO% %OCTOPACK_PUBLISH_PACKAGE% %OCTOPUS_API_KEY%
 echo error %ERRORLEVEL%
 if %errorlevel% neq 0 goto build_fail
 
