@@ -11,7 +11,7 @@ namespace SampleService
       try
       {
         sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "\\Log.txt", true);
-        sw.WriteLine(DateTime.Now.ToString() + ": " + message);
+        sw.WriteLine(DateTime.Now.ToString() + ":  " + message);
         sw.Flush();
         sw.Close();
       }
