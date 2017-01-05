@@ -15,7 +15,7 @@ namespace SampleService
         sw.Flush();
         sw.Close();
       }
-      catch (Exception)
+      catch (Exception e)
       {
       }
     }
